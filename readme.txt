@@ -1,3 +1,3 @@
-Из каталога с файлом clf_run.py запускаем команду python clf_run.py 
-Ждем около минуты (векторайзер сложный, весит 224мб)
-Открываем http://localhost/sentiment-demo в браузере
+1) In command line from folder with clf_run.py run command  python clf_run.py 
+2) Wait for vectorizer loading
+3) Open http://localhost/sentiment-demo in browser
